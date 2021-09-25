@@ -1,0 +1,9 @@
+﻿<Application x:Class="DataGridExample_02_CauTrucDataGrid.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DataGridExample_02_CauTrucDataGrid"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

@@ -1,0 +1,32 @@
+﻿<Window x:Class="DataGridExample_01_Basic.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataGridExample_01_Basic"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450"
+        Width="412.8">
+    <Window.DataContext>
+        <local:Datas />
+    </Window.DataContext>
+    <DataGrid ItemsSource="{Binding Items}"
+              HorizontalGridLinesBrush="Red" 
+              VerticalGridLinesBrush="Green"
+              GridLinesVisibility="All"
+              HeadersVisibility="All"
+              CanUserSortColumns="False"
+              CanUserReorderColumns="False"
+              IsReadOnly="True"
+              CanUserResizeColumns="False"
+              CanUserResizeRows="False"
+              SelectionUnit="FullRow"
+              SelectionMode="Extended"
+              RowBackground="Yellow"
+              AlternatingRowBackground="Gray"
+              FlowDirection="LeftToRight"
+              FrozenColumnCount="2"
+              >
+        
+    </DataGrid>
+</Window>

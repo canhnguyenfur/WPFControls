@@ -1,0 +1,9 @@
+﻿<Application x:Class="DataGridExample_03_2_DatagridComboboxColumn_Enum_.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DataGridExample_03_2_DatagridComboboxColumn_Enum_"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

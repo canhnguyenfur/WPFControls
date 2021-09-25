@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboboxExample", "ComboboxExample\ComboboxExample.csproj", "{C27B0AE1-03C8-4DFE-A555-F5D2D697096E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboboxExample_02_ItemsorcesVaDisplayMemberPath", "ComboboxExample_ItemsorcesVaDisplayMemberPath\ComboboxExample_02_ItemsorcesVaDisplayMemberPath.csproj", "{6A5DE599-7DE5-4093-A55D-EE7391B3581A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboboxExample_03_ItemTemplateVàBindingPath", "ComboboxExample_03_ItemTemplateVàBindingPath\ComboboxExample_03_ItemTemplateVàBindingPath.csproj", "{7F35F4D1-14B8-4A1A-BD07-AD5C03104F0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboboxExample_04_LayDoiTuongTuComboboxItemBindingPath", "CombobocExample_04_LayDoiTuongTuComboboxItemBindingPath\ComboboxExample_04_LayDoiTuongTuComboboxItemBindingPath.csproj", "{21CAF73F-73DF-4BA1-A3A5-226468D3740E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboboxExample_05_ThemVaSelectNullValue", "ComboboxExample_05_ThemVaSelectNullValue\ComboboxExample_05_ThemVaSelectNullValue.csproj", "{61166D29-3437-456D-8CC4-C4248F95FA54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C27B0AE1-03C8-4DFE-A555-F5D2D697096E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C27B0AE1-03C8-4DFE-A555-F5D2D697096E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C27B0AE1-03C8-4DFE-A555-F5D2D697096E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C27B0AE1-03C8-4DFE-A555-F5D2D697096E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A5DE599-7DE5-4093-A55D-EE7391B3581A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5DE599-7DE5-4093-A55D-EE7391B3581A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5DE599-7DE5-4093-A55D-EE7391B3581A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5DE599-7DE5-4093-A55D-EE7391B3581A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F35F4D1-14B8-4A1A-BD07-AD5C03104F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F35F4D1-14B8-4A1A-BD07-AD5C03104F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F35F4D1-14B8-4A1A-BD07-AD5C03104F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F35F4D1-14B8-4A1A-BD07-AD5C03104F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CAF73F-73DF-4BA1-A3A5-226468D3740E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CAF73F-73DF-4BA1-A3A5-226468D3740E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CAF73F-73DF-4BA1-A3A5-226468D3740E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CAF73F-73DF-4BA1-A3A5-226468D3740E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61166D29-3437-456D-8CC4-C4248F95FA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61166D29-3437-456D-8CC4-C4248F95FA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61166D29-3437-456D-8CC4-C4248F95FA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61166D29-3437-456D-8CC4-C4248F95FA54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FF0C4F8-EDC9-4630-9922-911E00CBC15A}
+	EndGlobalSection
+EndGlobal

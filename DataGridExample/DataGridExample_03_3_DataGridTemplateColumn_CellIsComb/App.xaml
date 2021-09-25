@@ -1,0 +1,9 @@
+﻿<Application x:Class="DataGridExample_03_3_DataGridTemplateColumn_CellIsComb.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DataGridExample_03_3_DataGridTemplateColumn_CellIsComb"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
